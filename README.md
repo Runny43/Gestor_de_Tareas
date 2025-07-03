@@ -1,0 +1,2 @@
+Para correr el backend, se necesita ejecutar el codigo y probar cada acción CRUD del proyecto (todas son funcionales, excepto la de PUT).
+Para correr el frontend, se necesita ejecutar el codigo desde el cmd o el cmd integrado del visual studio code para visualizar la funcionalidad de la aplicación, todo mientras el backend está ejecutandose (nuevamente, no se logró producir un PUT o actualizar, al mismo tiempo que faltó la funcionalidad de poder modificar si una tarea está en proceso, completada o incompleta).
